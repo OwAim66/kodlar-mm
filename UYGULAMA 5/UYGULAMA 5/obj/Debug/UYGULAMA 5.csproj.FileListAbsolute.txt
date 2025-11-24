@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\bin\Debug\UYGULAMA 5.exe.config
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\bin\Debug\UYGULAMA 5.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\bin\Debug\UYGULAMA 5.pdb
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA 5.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA_5.Form1.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA_5.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA 5.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA 5.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA 5.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UYGULAMA 5\UYGULAMA 5\obj\Debug\UYGULAMA 5.pdb

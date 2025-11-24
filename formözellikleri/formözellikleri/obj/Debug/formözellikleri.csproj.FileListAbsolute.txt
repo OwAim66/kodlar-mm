@@ -1,0 +1,12 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\bin\Debug\formözellikleri.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\bin\Debug\formözellikleri.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\bin\Debug\formözellikleri.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.Form2.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\formözellikleri\formözellikleri\obj\Debug\formözellikleri.exe.config

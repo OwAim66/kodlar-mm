@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\bin\Debug\HER ZAMAN GENÇ VE GÜZELSİN.exe.config
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\bin\Debug\HER ZAMAN GENÇ VE GÜZELSİN.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\bin\Debug\HER ZAMAN GENÇ VE GÜZELSİN.pdb
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER_ZAMAN_GENÇ_VE_GÜZELSİN.Form1.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER_ZAMAN_GENÇ_VE_GÜZELSİN.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.pdb
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\HER ZAMAN GENÇ VE GÜZELSİN\HER ZAMAN GENÇ VE GÜZELSİN\obj\Debug\HER ZAMAN GENÇ VE GÜZELSİN.exe.config

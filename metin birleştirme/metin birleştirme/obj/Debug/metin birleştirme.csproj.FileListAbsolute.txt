@@ -1,0 +1,12 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin_birleştirme.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin_birleştirme.Form2.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin_birleştirme.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\bin\Debug\metin birleştirme.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\bin\Debug\metin birleştirme.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\bin\Debug\metin birleştirme.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\metin birleştirme\metin birleştirme\obj\Debug\metin birleştirme.exe.config

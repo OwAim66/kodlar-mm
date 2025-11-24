@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\2. uygulama8.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\_2.uygulama8.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\_2.uygulama8.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\2. uygulama8.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\2. uygulama8.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\bin\Debug\_2.uygulama8.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\bin\Debug\_2.uygulama8.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\bin\Debug\_2.uygulama8.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\_2.uygulama8.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama8\2. uygulama8\obj\Debug\_2.uygulama8.pdb

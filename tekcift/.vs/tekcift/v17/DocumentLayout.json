@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\tekcift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550FA904-F1EF-40A6-A8F5-DE83753393C3}|tekcift\\tekcift.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\tekcift\\tekcift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550FA904-F1EF-40A6-A8F5-DE83753393C3}|tekcift\\tekcift.csproj|solutionrelative:tekcift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550FA904-F1EF-40A6-A8F5-DE83753393C3}|tekcift\\tekcift.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\tekcift\\tekcift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{550FA904-F1EF-40A6-A8F5-DE83753393C3}|tekcift\\tekcift.csproj|solutionrelative:tekcift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\tekcift\\tekcift\\Form1.cs",
+              "RelativeDocumentMoniker": "tekcift\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\tekcift\\tekcift\\Form1.cs",
+              "RelativeToolTip": "tekcift\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:18:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\tekcift\\tekcift\\Form1.cs",
+              "RelativeDocumentMoniker": "tekcift\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\tekcift\\tekcift\\Form1.cs [Design]",
+              "RelativeToolTip": "tekcift\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:15:36.156Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

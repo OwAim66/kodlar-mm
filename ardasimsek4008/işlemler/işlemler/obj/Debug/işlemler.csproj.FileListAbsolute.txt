@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\bin\Debug\işlemler.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\bin\Debug\işlemler.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\bin\Debug\işlemler.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\işlemler\işlemler\obj\Debug\işlemler.exe.config

@@ -1,0 +1,21 @@
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.exe.config
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.exe
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.pdb
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.AssemblyReference.cache
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.Form1.resources
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.Properties.Resources.resources
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.GenerateResource.cache
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.exe
+C:\Users\FMTAL\source\repos\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\bin\Debug\_2.uygulama5.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\2. uygulama5.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama5\2. uygulama5\obj\Debug\_2.uygulama5.pdb

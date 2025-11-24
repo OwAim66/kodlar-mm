@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\bin\Debug\uygulama 27.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\bin\Debug\uygulama 27.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\bin\Debug\uygulama 27.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama_27.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama_27.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama 27\uygulama 27\obj\Debug\uygulama 27.exe.config

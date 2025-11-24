@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\bin\Debug\uygulama12.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\bin\Debug\uygulama12.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\bin\Debug\uygulama12.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\uygulama12\uygulama12\obj\Debug\uygulama12.exe.config

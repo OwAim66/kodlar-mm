@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\bin\Debug\aktifform.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\bin\Debug\aktifform.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\bin\Debug\aktifform.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\aktifform\aktifform\obj\Debug\aktifform.exe.config

@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\bin\Debug\karşılaştırma.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\bin\Debug\karşılaştırma.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\bin\Debug\karşılaştırma.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\karşılaştırma\karşılaştırma\obj\Debug\karşılaştırma.exe.config

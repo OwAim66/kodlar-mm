@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\bin\Debug\tekcift.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\bin\Debug\tekcift.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\bin\Debug\tekcift.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\tekcift\tekcift\obj\Debug\tekcift.exe.config

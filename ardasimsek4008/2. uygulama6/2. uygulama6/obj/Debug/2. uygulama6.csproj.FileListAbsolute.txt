@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\bin\Debug\_2.uygulama6.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\bin\Debug\_2.uygulama6.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\bin\Debug\_2.uygulama6.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\2. uygulama6.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\_2.uygulama6.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\_2.uygulama6.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\2. uygulama6.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\2. uygulama6.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\_2.uygulama6.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\_2.uygulama6.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama6\2. uygulama6\obj\Debug\_2.uygulama6.exe.config

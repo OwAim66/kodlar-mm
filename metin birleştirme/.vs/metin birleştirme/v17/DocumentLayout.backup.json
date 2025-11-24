@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|solutionrelative:metin birle\u015Ftirme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|solutionrelative:metin birle\u015Ftirme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|solutionrelative:metin birle\u015Ftirme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6ECB6-6572-495D-B246-1E126E4F2FA4}|metin birle\u015Ftirme\\metin birle\u015Ftirme.csproj|solutionrelative:metin birle\u015Ftirme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form1.cs",
+              "RelativeDocumentMoniker": "metin birle\u015Ftirme\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form1.cs",
+              "RelativeToolTip": "metin birle\u015Ftirme\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:17:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form2.cs",
+              "RelativeDocumentMoniker": "metin birle\u015Ftirme\\Form2.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form2.cs",
+              "RelativeToolTip": "metin birle\u015Ftirme\\Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:10:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form2.cs",
+              "RelativeDocumentMoniker": "metin birle\u015Ftirme\\Form2.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form2.cs [Design]",
+              "RelativeToolTip": "metin birle\u015Ftirme\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:38:21.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form1.cs",
+              "RelativeDocumentMoniker": "metin birle\u015Ftirme\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\metin birle\u015Ftirme\\metin birle\u015Ftirme\\Form1.cs [Design]",
+              "RelativeToolTip": "metin birle\u015Ftirme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:29:55.521Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

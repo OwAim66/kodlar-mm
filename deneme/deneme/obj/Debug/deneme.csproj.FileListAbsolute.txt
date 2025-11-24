@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\kodlarım\deneme\deneme\obj\Debug\deneme.pdb

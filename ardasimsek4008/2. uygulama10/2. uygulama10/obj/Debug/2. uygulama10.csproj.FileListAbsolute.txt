@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\bin\Debug\_2.uygulama10.exe.config
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\bin\Debug\_2.uygulama10.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\bin\Debug\_2.uygulama10.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\2. uygulama10.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\_2.uygulama10.Form1.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\_2.uygulama10.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\2. uygulama10.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\2. uygulama10.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\_2.uygulama10.exe
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\_2.uygulama10.pdb
+C:\Users\FMTAL\Desktop\ardasimsek4008\2. uygulama10\2. uygulama10\obj\Debug\_2.uygulama10.exe.config

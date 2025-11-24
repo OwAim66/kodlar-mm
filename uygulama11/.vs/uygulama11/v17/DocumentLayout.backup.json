@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\uygulama11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2BF364-61B5-40E8-8CE9-7F6849467E5B}|uygulama11\\uygulama11.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\uygulama11\\uygulama11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2BF364-61B5-40E8-8CE9-7F6849467E5B}|uygulama11\\uygulama11.csproj|solutionrelative:uygulama11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2BF364-61B5-40E8-8CE9-7F6849467E5B}|uygulama11\\uygulama11.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\uygulama11\\uygulama11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E2BF364-61B5-40E8-8CE9-7F6849467E5B}|uygulama11\\uygulama11.csproj|solutionrelative:uygulama11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\uygulama11\\uygulama11\\Form1.cs",
+              "RelativeDocumentMoniker": "uygulama11\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\uygulama11\\uygulama11\\Form1.cs*",
+              "RelativeToolTip": "uygulama11\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\uygulama11\\uygulama11\\Form1.cs",
+              "RelativeDocumentMoniker": "uygulama11\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\uygulama11\\uygulama11\\Form1.cs [Design]*",
+              "RelativeToolTip": "uygulama11\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:39:53.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

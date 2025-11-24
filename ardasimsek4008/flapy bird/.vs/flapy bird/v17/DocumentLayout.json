@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\flapy bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFAD84-8B0E-4F93-B379-53630920704D}|flapy bird\\flapy bird.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\flapy bird\\flapy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFAD84-8B0E-4F93-B379-53630920704D}|flapy bird\\flapy bird.csproj|solutionrelative:flapy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFAD84-8B0E-4F93-B379-53630920704D}|flapy bird\\flapy bird.csproj|c:\\users\\fmtal\\desktop\\ardasimsek4008\\flapy bird\\flapy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4DFAD84-8B0E-4F93-B379-53630920704D}|flapy bird\\flapy bird.csproj|solutionrelative:flapy bird\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\flapy bird\\flapy bird\\Form1.cs",
+              "RelativeDocumentMoniker": "flapy bird\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\flapy bird\\flapy bird\\Form1.cs",
+              "RelativeToolTip": "flapy bird\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:00:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\flapy bird\\flapy bird\\Form1.cs",
+              "RelativeDocumentMoniker": "flapy bird\\Form1.cs",
+              "ToolTip": "C:\\Users\\FMTAL\\Desktop\\ardasimsek4008\\flapy bird\\flapy bird\\Form1.cs [Design]",
+              "RelativeToolTip": "flapy bird\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:39:21.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

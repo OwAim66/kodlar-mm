@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA 4.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA_4.Form1.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA_4.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA 4.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA 4.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\bin\Debug\UGULAMA 4.exe.config
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\bin\Debug\UGULAMA 4.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\bin\Debug\UGULAMA 4.pdb
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA 4.exe
+C:\Users\FMTAL\Desktop\4051 Ali Yigit Demir\UGULAMA 4\UGULAMA 4\obj\Debug\UGULAMA 4.pdb
