@@ -1,0 +1,10 @@
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\bin\Debug\sıraalma.exe.config
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\bin\Debug\sıraalma.exe
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\bin\Debug\sıraalma.pdb
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.csproj.AssemblyReference.cache
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.Form1.resources
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.Properties.Resources.resources
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.csproj.GenerateResource.cache
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.csproj.CoreCompileInputs.cache
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.exe
+C:\Users\ardas\Desktop\kod yeni\sıraalma\sıraalma\obj\Debug\sıraalma.pdb
